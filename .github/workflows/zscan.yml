@@ -46,9 +46,9 @@ jobs:
       timeout-minutes: 60
       with:
         # REPLACE: Zimperium Client Environment Name
-        client_env: env_string
+        client_env: mapsfreemium
         # REPLACE: Zimperium Client ID
-        client_id: id_string
+        client_id: KTz4Tf5aT0CZpfbn-yrILQ
         # REPLACE: Zimperium Client Secret
         client_secret: ${{ secrets.ZSCAN_CLIENT_SECRET }}
         # REPLACE: The path to an .ipa or .apk
