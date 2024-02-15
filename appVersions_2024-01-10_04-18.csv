@@ -1,0 +1,56 @@
+name,version,platform,bundleId,developerName,classification,securityRisk,privacyRisk,deviceCount,created
+test,1.0,android,com.framull.test,np,MALICIOUS,100,44,,Wed Jan 03 13:45:02 GMT 2024
+Hub,21.10.0.24,android,com.airwatch.androidagent,Unknown,LEGIT,91,35,0,Wed Jan 03 09:02:31 GMT 2024
+Era of Celestials,2.1670.663298,android,com.gtarcade.eoa,,LEGIT,91,34,0,Wed Jan 03 09:10:57 GMT 2024
+Content,23.10.12,android,com.airwatch.contentlocker,Unknown,LEGIT,89,60,0,Wed Jan 03 09:02:31 GMT 2024
+Portail d'entreprise,5.0.5903.0,android,com.microsoft.windowsintune.companyportal,Microsoft Corporation Third Party Marketplace (Do Not Trust),LEGIT,89,40,0,Wed Jan 03 09:02:31 GMT 2024
+Microsoft Defender,1.0.5209.0101,android,com.microsoft.scmx,Microsoft Corporation Third Party Marketplace (Do Not Trust),LEGIT,86,45,0,Wed Jan 03 09:02:31 GMT 2024
+Boxer,23.10.0.9,android,com.boxer.email,Daniel Ochoa,LEGIT,86,42,0,Wed Jan 03 09:02:31 GMT 2024
+FX,9.0.1.2,android,nextapp.fx,unknown,LEGIT,86,26,1,Wed Jan 03 09:02:31 GMT 2024
+Telegram,7.0.1,android,org.telegram.messenger,Nikolay Kudashov,LEGIT,84,80,0,Wed Jan 03 09:02:31 GMT 2024
+WhatsApp,2.16.133,android,com.whatsapp,Brian Acton,LEGIT,83,38,0,Wed Jan 03 09:02:31 GMT 2024
+E-mail,6.1.42.0,android,com.samsung.android.email.provider,Samsung Cert,LEGIT,82,29,0,Wed Jan 03 09:02:31 GMT 2024
+Epic Games Store,5.2.0,android,com.epicgames.portal,Epic Games,LEGIT,77,15,1,Wed Jan 03 09:12:18 GMT 2024
+NetCapture,2.1.17_ 2023_ 8_ 10_ 23_ 32,android,com.minhui.networkcapture,Android,LEGIT,76,11,1,Wed Jan 03 10:19:17 GMT 2024
+NetCapture,2.1.16_ 2022_ 5_ 2_ 17_ 35,android,com.minhui.networkcapture,,LEGIT,70,12,0,Wed Jan 03 09:02:31 GMT 2024
+Installation,5.47,android,com.app.aplintal,,MALICIOUS,68,28,0,Wed Jan 03 09:07:36 GMT 2024
+Mobile Conf,1.0,android,com.example.Mobile_Conf,Unknown,MALICIOUS,63,32,,Wed Jan 03 13:45:57 GMT 2024
+Android System Intelligence,T.39.playstore.oemfull.588401366,android,com.google.android.as,Android,LEGIT,63,42,1,Mon Jan 08 15:19:44 GMT 2024
+Knox Remote Support,21.7,android,com.sds.emm.sers,samsung,LEGIT,51,16,1,Mon Jan 08 14:22:03 GMT 2024
+Knox E-FOTA Plugin,2.0.04,android,com.samsung.android.knox.efota.plugin,Samsung Cert,LEGIT,48,5,0,Wed Jan 03 09:02:31 GMT 2024
+MTD,5.2.16,android,com.zimperium.zips,,LEGIT,22,22,0,Wed Jan 03 09:02:31 GMT 2024
+MTD,5.2.14,android,com.zimperium.zips,,LEGIT,16,18,0,Wed Jan 03 10:19:17 GMT 2024
+Facebook,stub (79.0.19),android,com.facebook.katana,Facebook Corporation,LEGIT,13,5,1,Wed Jan 03 10:19:17 GMT 2024
+Tips,4.2.10.5,android,com.samsung.android.app.tips,Samsung Cert,LEGIT,7,14,1,Wed Jan 03 10:19:17 GMT 2024
+SELinuxModeChanger,11.0,android,com.mrbimc.selinux,FDroid,LEGIT,7,5,1,Wed Jan 03 09:02:31 GMT 2024
+WmvJOgGNXXSpa,10.7.9,android,ru.csvbuhwt.fadhrpfss,,LEGIT,,,0,Wed Jan 03 09:02:34 GMT 2024
+Pratic'PRO,2.1.8,android,ei.TeamUpPro,,LEGIT,,,1,Wed Jan 03 10:19:21 GMT 2024
+yuiAfbBsouqpsMo,10.7.9,android,ru.nqvijeyt.ddvxmarsj,,LEGIT,,,0,Wed Jan 03 10:19:19 GMT 2024
+دعا و قرآن و ادعیه منتخب,2.3,android,com.doa.start,,LEGIT,,,0,Wed Jan 03 09:11:23 GMT 2024
+Hub,22.08.0.11,android,com.airwatch.androidagent,Unknown,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+APKPure,3.19.08,android,com.apkpure.aegon,,LEGIT,,,1,Wed Jan 03 09:02:33 GMT 2024
+Magisk,26.1,android,com.topjohnwu.magisk,John Wu,LEGIT,,,1,Wed Jan 03 09:02:31 GMT 2024
+Exodus,3.1.1,android,org.eu.exodus_privacy.exodusprivacy,,LEGIT,,,1,Wed Jan 03 09:02:36 GMT 2024
+Coin Master,3.2,android,com.moonactive.coinmaster,Chadya Latham,LEGIT,,,2,Wed Jan 03 09:02:31 GMT 2024
+Google Play services,23.48.16 (190400-590025996),android,com.google.android.gms,Android,LEGIT,,,1,Thu Jan 04 07:55:36 GMT 2024
+yuiAfbBsouqpsMo,11.1.1,android,ru.nqvijeyt.ddvxmarsj,,LEGIT,,,1,Thu Jan 04 13:21:02 GMT 2024
+Testing Malware (EICAR virus),1.0.0,android,com.montimage.eicar_virus,,MALICIOUS,,,1,Wed Jan 03 11:45:31 GMT 2024
+Web,22.10.0.12,android,com.airwatch.browser,Unknown,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+Knox E-FOTA Plugin,1.0.09,android,com.samsung.android.knox.efota.plugin,Samsung Cert,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+Knox Service Plugin,1.3.90 (23.03),android,com.samsung.android.knox.kpu,Samsung Cert,LEGIT,,,0,Wed Jan 03 09:02:31 GMT 2024
+Knox E-FOTA,2.0.20.5,android,com.samsung.android.knox.efota,Samsung Cert,LEGIT,,,0,Wed Jan 03 09:02:31 GMT 2024
+Candy Crush Jelly,1.15.3,android,com.king.candycrushjellysagamod,netense,LEGIT,,,2,Wed Jan 03 09:08:51 GMT 2024
+LP  Installer,10.7.9,android,ru.aaaaaacz.installer,,MALICIOUS,,,0,Wed Jan 03 09:09:49 GMT 2024
+Testing Malware (EICAR virus),1.0.0,android,com.montimage.eicar_virus,Android,MALICIOUS,,,0,Wed Jan 03 09:02:31 GMT 2024
+Content,22.11.9,android,com.airwatch.contentlocker,Unknown,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+Authenticator,6.2309.5975,android,com.azure.authenticator,Microsoft Corporation Third Party Marketplace (Do Not Trust),LEGIT,,,0,Wed Jan 03 09:02:30 GMT 2024
+SmartThings,1.8.01.22,android,com.samsung.android.oneconnect,,LEGIT,,,0,Wed Jan 03 09:02:37 GMT 2024
+Web,22.05.0.4,android,com.airwatch.browser,Unknown,LEGIT,,,0,Wed Jan 03 09:02:31 GMT 2024
+Adobe Acrobat,22.9.1.24121,android,com.adobe.reader,Adobe Systems Incorporated,LEGIT,,,0,Wed Jan 03 09:02:31 GMT 2024
+Google Play Store,38.8.28-29 [0] [PR] 592366865,android,com.android.vending,Android,LEGIT,,,1,Mon Jan 08 13:18:20 GMT 2024
+Samsung Internet,14.2.1.69,android,com.sec.android.app.sbrowser,Samsung Cert,LEGIT,,,0,Wed Jan 03 09:02:31 GMT 2024
+Knox Service Plugin,1.4.24 (23.09),android,com.samsung.android.knox.kpu,Samsung Cert,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+Knox E-FOTA,1.1.70.2,android,com.samsung.android.knox.efota,Samsung Cert,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+Boxer,22.09.0.1,android,com.boxer.email,Daniel Ochoa,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+SEP Mobile,4.7.4,android,com.skycure.skycure,Skycure Ltd.,LEGIT,,,1,Wed Jan 03 10:19:17 GMT 2024
+MTD,5.2.16,android,com.zimperium.zips,,LEGIT,,,1,Thu Jan 04 13:22:32 GMT 2024
